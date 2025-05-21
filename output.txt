@@ -1,0 +1,44 @@
+KEYWORD              : int
+IDENTIFIER           : main
+OPERATOR             : (
+OPERATOR             : )
+IDENTIFIER           : num
+OPERATOR             : =
+INTEGER CONSTANT     : 10
+KEYWORD              : int
+IDENTIFIER           : b
+OPERATOR             : =
+INTEGER CONSTANT     : 100
+KEYWORD              : char
+IDENTIFIER           : ch
+OPERATOR             : =
+CHARACTER LITERAL    : 'a'
+KEYWORD              : float
+IDENTIFIER           : f
+OPERATOR             : =
+HEXADECIMAL CONSTANT : 0x12345
+KEYWORD              : double
+IDENTIFIER           : x
+OPERATOR             : =
+FLOATING CONSTANT    : 12.1245
+IDENTIFIER           : num
+OPERATOR             : =
+HEXADECIMAL CONSTANT : 0XABCD
+KEYWORD              : int
+IDENTIFIER           : num
+OPERATOR             : =
+OCTAL CONSTANT       : 0007
+IDENTIFIER           : printf
+OPERATOR             : (
+STRING LITERAL       : "HELLO WORLD\n"
+OPERATOR             : )
+KEYWORD              : int
+IDENTIFIER           : num
+OPERATOR             : =
+OCTAL CONSTANT       : 0007
+KEYWORD              : int
+IDENTIFIER           : num
+KEYWORD              : int
+IDENTIFIER           : num
+OPERATOR             : =
+INTEGER CONSTANT     : 1223
